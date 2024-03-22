@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1512852869 source:c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1512855967 c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\biblio.h
+
+1512853460 source:c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+
+1512848416 source:c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\implem-fstream.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1512834308 source:c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\implem-listalinear.cpp
+	<iostream>
+	"biblio.h"
+
+1512847256 c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+
+1512854816 source:c:\users\jean_\downloads\geral\faculdade\aed 2\trabalho final\coffee\implem-naogenericas.cpp
+	<iostream>
+	"biblio.h"
+
+1512852869 source:c:\users\fdepo\desktop\coffee\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1512855967 c:\users\fdepo\desktop\coffee\biblio.h
+
+1513091851 source:c:\users\jean_\desktop\coffee\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513092672 c:\users\jean_\desktop\coffee\biblio.h
+
+1513091407 source:c:\users\jean_\desktop\coffee\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+	<stack>
+
+1513090990 source:c:\users\jean_\desktop\coffee\implem-fstream.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513090962 source:c:\users\jean_\desktop\coffee\implem-fila.cpp
+	<iostream>
+	"biblio.h"
+
+1513091387 source:c:\users\jean_\desktop\coffee\implem-naogenericas.cpp
+	<iostream>
+	<stack>
+	"biblio.h"
+
+1513089090 source:d:\coffee\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513089072 d:\coffee\biblio.h
+
+1513087362 source:d:\coffee\implem-fila.cpp
+	<iostream>
+	"biblio.h"
+
+1513087390 source:d:\coffee\implem-fstream.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513089072 source:d:\coffee\implem-naogenericas.cpp
+	<iostream>
+	<stack>
+	"biblio.h"
+
+1513087807 source:d:\coffee\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+	<stack>
+
+1513140980 source:e:\users\rodrigo\documents\coffee\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513140800 e:\users\rodrigo\documents\coffee\biblio.h
+
+1513140846 source:e:\users\rodrigo\documents\coffee\implem-fila.cpp
+	<iostream>
+	"biblio.h"
+
+1513140980 source:e:\users\rodrigo\documents\coffee\implem-fstream.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+	<stdlib.h>
+
+1513140588 source:e:\users\rodrigo\documents\coffee\implem-naogenericas.cpp
+	<iostream>
+	<stack>
+	"biblio.h"
+
+1513141048 source:e:\users\rodrigo\documents\coffee\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+
+1513136797 source:e:\users\rodrigo\documents\coffee\implem-pilha.cpp
+	<iostream>
+	"biblio.h"
+
+1513144580 source:c:\users\jean_\desktop\coffee atualizado\implem-arvorebinaria.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+
+1513166410 c:\users\jean_\desktop\coffee atualizado\biblio.h
+
+1513144446 source:c:\users\jean_\desktop\coffee atualizado\implem-fila.cpp
+	<iostream>
+	"biblio.h"
+
+1513144580 source:c:\users\jean_\desktop\coffee atualizado\implem-fstream.cpp
+	<iostream>
+	<fstream>
+	"biblio.h"
+	<stdlib.h>
+
+1513140397 source:c:\users\jean_\desktop\coffee atualizado\implem-pilha.cpp
+	<iostream>
+	"biblio.h"
+
+1513144734 source:c:\users\jean_\desktop\coffee atualizado\main.cpp
+	<iostream>
+	<clocale>
+	"biblio.h"
+

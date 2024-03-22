@@ -1,0 +1,24 @@
+Pão de Queijo;11;1.50;0.50
+Waffle;16;2.00;1.00
+Café com leite;2;2.50;1.25
+Capuccino Tradicional;3;4.00;1.50
+Donuts de Doce de Leite;20;1.50;0.50
+Expresso Tradicional;5;3.00;1.00
+Donuts de Doce de Creme;22;1.50;0.50
+Chocolate Branco;7;4.00;1.50
+Cha Quente;8;2.00;0.50
+Pedaço de Bolo de Baunilha;15;2.50;1.00
+Croissant;10;3.00;1.50
+Café;1;2.00;1.00
+Cookie;12;2.00;1.00
+Pedaço de Bolo de Chocolate;13;2.50;1.00
+Pedaço de Bolo de Laranja;14;2.50;1.00
+Pão na Chapa com Catupiry;19;1.50;0.50
+Capuccino Chocolate;4;4.00;2.00
+Brownie;17;2.00;1.00
+Pão na Chapa com Manteiga;18;1.50;0.50
+Donuts de Doce de Chocolate;21;1.50;0.50
+Chocolate Classico;6;4.00;1.50
+Cha Gelado;9;2.00;0.50
+
+
